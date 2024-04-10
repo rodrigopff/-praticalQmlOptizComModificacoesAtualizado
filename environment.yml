@@ -7,6 +7,8 @@
 ## Se preferir pode-se so cria um env e ir instalando as libs conforme aparecem nos notebooks 
 ## do livro 
 
+## Este environment vai fca sem versao para ser atualizado sempre para as ultimas libs
+
 name: qmlPraticalOptMaisAtual
 
 channels:
